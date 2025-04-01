@@ -1,2 +1,2 @@
-# learning-clustering
+# learning-dbscan
 <p>Learning DBSCAN</p>
