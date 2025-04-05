@@ -1,2 +1,2 @@
 # learning-dbscan
-<p>Learning DBSCAN</p>
+<p>Using K-Means Clustering Algorithm (Clustering)</p>
